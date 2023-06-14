@@ -1,0 +1,14 @@
+C:\Users\1012\source\repos\Sofronov\Sofronov\bin\Debug\Sofronov.exe.config
+C:\Users\1012\source\repos\Sofronov\Sofronov\bin\Debug\Sofronov.exe
+C:\Users\1012\source\repos\Sofronov\Sofronov\bin\Debug\Sofronov.pdb
+C:\Users\1012\source\repos\Sofronov\Sofronov\bin\Debug\Guna.UI2.dll
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.csproj.AssemblyReference.cache
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.Auto.resources
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.Client.resources
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.Menager.resources
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.Properties.Resources.resources
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.csproj.GenerateResource.cache
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.csproj.CoreCompileInputs.cache
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.csproj.CopyComplete
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.exe
+C:\Users\1012\source\repos\Sofronov\Sofronov\obj\Debug\Sofronov.pdb
